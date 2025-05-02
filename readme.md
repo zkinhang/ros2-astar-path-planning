@@ -117,4 +117,5 @@ The script will generate a plot showing:
 
 ## Credits
 
-*   The core A* grid planning algorithm implementation is based on the work by Atsushi Sakai (@Atsushi_twi) and Nikos Kanargias (nkana@tee.gr). See their original work [here](https://github.com/AtsushiSakai/PythonRobotics/).
+*   The core A* grid planning algorithm implementation is from the work by Atsushi Sakai (@Atsushi_twi) and Nikos Kanargias (nkana@tee.gr). See their original work [here](https://github.com/AtsushiSakai/PythonRobotics/).
+*   This was developed in collaboration with Leung-Kam-Ho in his robotic project and reuses/adapts code from their original project repository, available at [https://github.com/Leung-Kam-Ho/201_ENG1003_AAE_GP8](https://github.com/Leung-Kam-Ho/201_ENG1003_AAE_GP8).
