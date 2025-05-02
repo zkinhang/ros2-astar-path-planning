@@ -1,4 +1,3 @@
-````markdown
 # Path Planning Package (ROS 2)
 
 This ROS 2 package implements the A* path planning algorithm to find an optimal path in a grid map, considering obstacles and different cost factors. It subscribes to path requests and publishes optimized path transitions.
