@@ -16,17 +16,12 @@ This implementation is based on the A* grid planning code by Atsushi Sakai and N
 
 ## Dependencies
 
-*   ROS 2 (tested on Humble, likely compatible with others)
+*   ROS 2 (tested on Jazzy, likely compatible with others)
 *   Python 3.x
 *   `rclpy` (ROS 2 Python client library)
 *   `numpy`
 *   `matplotlib`
 *   `custom_interfaces` package: This package must exist in your workspace and contain the `PathInfo.msg` and `PathTransition.msg` definitions.
-
-```bash
-# Example installation of Python dependencies
-pip install numpy matplotlib
-```
 
 ## Installation
 
